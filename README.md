@@ -4,4 +4,4 @@
 ### Membuat Repository VCS
 Latihan VCS `<p>`
 Ini adalah tampilannya
-![img]screenshot/ss1.png
+![Gambar 1](screenshot/ss1.png)
