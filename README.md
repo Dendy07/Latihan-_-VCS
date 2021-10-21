@@ -4,4 +4,4 @@
 ### Membuat Repository VCS
 Latihan VCS `<p>`
 Ini adalah tampilannya
-![img]Camera Roll/Latihan-_-VCS
+![img]screenshot/ss1.png
